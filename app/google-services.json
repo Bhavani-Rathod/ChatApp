@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605668785735",
+    "project_id": "chatapplication-98b44",
+    "storage_bucket": "chatapplication-98b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605668785735:android:01cd83191163a902723b62",
+        "android_client_info": {
+          "package_name": "com.bhavani.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605668785735-erp7n1g8nfp89h07t0lpq41853kgrjie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQIA4-Itk9_mx5GwgT2tlwqaQ4qIaOJsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605668785735-erp7n1g8nfp89h07t0lpq41853kgrjie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
